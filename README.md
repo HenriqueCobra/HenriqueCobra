@@ -34,6 +34,25 @@
 
 <br>
 
+## 💼 Projetos em destaque
+
+<p align="left">
+  <a href="https://github.com/HenriqueCobra/Emulador-CHIP-8" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueCobra&repo=Emulador-CHIP-8&theme=dark&hide_border=true" alt="Emulador CHIP-8"/>
+  </a>
+  <a href="https://github.com/HenriqueCobra/Arkanoid-in-Assembly" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueCobra&repo=Arkanoid-in-Assembly&theme=dark&hide_border=true" alt="Arkanoid in Assembly"/>
+  </a>
+  <a href="https://github.com/HenriqueCobra/Gestor-de-recursos" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueCobra&repo=Gestor-de-recursos&theme=dark&hide_border=true" alt="Gestor de Recursos"/>
+  </a>
+  <a href="https://github.com/HenriqueCobra/Algoritmos-e-Estruturas-de-Dados" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueCobra&repo=Algoritmos-e-Estruturas-de-Dados&theme=dark&hide_border=true" alt="Algoritmos e Estruturas de Dados"/>
+  </a>
+</p>
+
+<br>
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
