@@ -43,8 +43,8 @@
   <a href="https://github.com/HenriqueCobra/Arkanoid-in-Assembly" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueCobra&repo=Arkanoid-in-Assembly&theme=dark&hide_border=true" alt="Arkanoid in Assembly"/>
   </a>
-  <a href="https://github.com/HenriqueCobra/Gestor-de-recursos" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueCobra&repo=Gestor-de-recursos&theme=dark&hide_border=true" alt="Gestor de Recursos"/>
+  <a href="https://github.com/HenriqueCobra/Gestor-de-cursos" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueCobra&repo=Gestor-de-cursos&theme=dark&hide_border=true" alt="Gestor de Cursos"/>
   </a>
   <a href="https://github.com/HenriqueCobra/Algoritmos-e-Estruturas-de-Dados" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueCobra&repo=Algoritmos-e-Estruturas-de-Dados&theme=dark&hide_border=true" alt="Algoritmos e Estruturas de Dados"/>
